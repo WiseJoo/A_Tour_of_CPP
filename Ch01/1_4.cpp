@@ -1,7 +1,7 @@
-#include <iostream>
-
-using namespace std;
-
+//#include <iostream>
+//
+//using namespace std;
+//
 //void some_function() // A function that does not return a value.
 //{
 //	double d = 2.2;	// Initialize Floating point number.
